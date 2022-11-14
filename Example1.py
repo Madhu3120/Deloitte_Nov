@@ -1,4 +1,4 @@
 v1 = "Deloitte"
-City = "Delhi"
+City = "Banglore"
 
-print("I work at {} {}" .format(v1,City))
+print("Relocated to {} {}" .format(v1,city))
